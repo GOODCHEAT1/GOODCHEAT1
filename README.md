@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🚀 I create powerful **Telegram bots** using Python & APIs  
 - 💡 Exploring Ethical Hacking, Terminal Tools, and Automation  
 - 🛠 Working on open-source **music bots** and utilities  
-- 📫 Reach me on Telegram: [@UddhavDev](https://t.me/UddhavDev)
+- 📫 Reach me on Telegram: [@GOODCHEAT01](https://t.me/GOODCHEAT01)
 
 ---
 

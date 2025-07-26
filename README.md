@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Uddhav Thakur (aka GOODCHEAT1)</h1>
+<h1 align="center">Hi 👋, I'm Uddhav Tiwari (aka GOODCHEAT1)</h1>
 <h3 align="center">A passionate coder, bot developer & tech explorer from India 🇮🇳</h3>
 
 ---
